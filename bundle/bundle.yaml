@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "Don-s-Cool-Club-dev-controller"
+description: "CloudBees CI configuration bundle for the Don-s-Cool-Club dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/don-s-cool-club/dev-controller"
+parent: "base"
